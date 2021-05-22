@@ -1,0 +1,1185 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noarchive">
+    <title>TRADR-LETS REACH THE TOP TOGETHER </title>
+    <!-- favicon -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- icofont -->
+    <link rel="stylesheet" href="assets/css/fontawesome.5.7.2.css">
+    <!-- flaticon -->
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <!-- animate.css -->
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <!-- magnific popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- responsive -->
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-area navbar-expand-lg nav-absolute white nav-style-01">
+        <div class="container nav-container">
+            <div class="responsive-mobile-menu">
+                <div class="logo-wrapper">
+                    <a href="index.html" class="logo">
+                        <img src="assets/img/logo-white.png" alt="logo">
+                    </a>
+                </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#appside_main_menu"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="appside_main_menu">
+                <ul class="navbar-nav">
+                    <li class="current-menu-item">
+                        <a href="#">Home</a>
+                    </li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#pricing">Pricing</a></li>
+                    <li><a href="#team">Team</a></li>
+                    <li class="menu-item-has-children">
+                        <a href="#">Blog</a>
+                        <ul class="sub-menu">
+                            <li><a href="blog.html">Blog 01</a></li>
+                            <li><a href="blog-details.html">Blog Details</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+            <div class="nav-right-content">
+                <ul>
+                    <li class="button-wrapper">
+                        <a href="#" class="boxed-btn btn-rounded">Download</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- header area start  -->
+    <header class="header-area header-bg dark-home-1" id="home">
+
+        <div class="shape-1"><img src="assets/img/shape/01.png" alt=""></div>
+        <div class="shape-2"><img src="assets/img/shape/02.png" alt=""></div>
+        <div class="shape-3"><img src="assets/img/shape/03.png" alt=""></div>
+        <div class="shape-4"><img src="assets/img/shape/05.png" alt=""></div>
+
+        <div class="header-right-image">
+            <img src="assets/img/mobile-image-4.png" alt="header right image">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="header-inner">
+                        <h1 class="title wow fadeInDown">Let's Reach The Top Together </h1>
+                        <p>India's First New Age Trading Floor: A Platform To Sculpt Young Minds and Trade Together.</p>
+                        <div class="btn-wrapper wow fadeInUp">
+                            <a href="#" class="boxed-btn btn-rounded">Download now</a>
+                            <a href="#" class="boxed-btn btn-rounded blank">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- header area end  -->
+
+    <!-- about us area start -->
+
+    <section class="about-us-area dark-bg">
+        <div class="shape-1"><img src="assets/img/shape/04.png" alt=""></div>
+        <div class="shape-2"><img src="assets/img/shape/05.png" alt=""></div>
+
+    </section>
+
+    <!-- about us area end -->
+
+    <!-- video area start -->
+    <section class="video-area dark-bg white" id="about">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="section-title white">
+                        <span class="subtitle">About TRADR</span>
+                        <h3 class="title extra">Accelerate your trading journey with TRADR</h3>
+                        <!-- <p></p> -->
+                    </div><!-- //. section title -->
+                </div>
+            </div>
+            <!-- <div class="row">
+            <div class="col-lg-12">
+                <div class="feature-area">
+                    <ul class="feature-list white">
+                        <li class="single-feature-list white">
+                            <div class="icon icon-bg-1">
+                                <i class="flaticon-vector"></i>
+                            </div>
+                            <div class="content">
+                                <h4 class="title"><a href="#">Clean Design</a></h4>
+                                <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor  tempor incididunt</p>
+                            </div>
+                        </li>
+                        <li class="single-feature-list white">
+                            <div class="icon icon-bg-2">
+                                <i class="flaticon-responsive"></i>
+                            </div>
+                            <div class="content">
+                                <h4 class="title"><a href="#">Fully Respnosive</a></h4>
+                                <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor  tempor incididunt</p>
+                            </div>
+                        </li>
+                        <li class="single-feature-list white">
+                            <div class="icon icon-bg-3">
+                                <i class="flaticon-layers-2"></i>   
+                            </div>
+                            <div class="content">
+                                <h4 class="title"><a href="#">Pixel Perfect</a></h4>
+                                <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor  tempor incididunt</p>
+                            </div>
+                        </li>
+                        <li class="single-feature-list white">
+                            <div class="icon icon-bg-4">
+                                <i class="flaticon-picture"></i>
+                            </div>
+                            <div class="content">
+                                <h4 class="title"><a href="#">Retina Ready</a></h4>
+                                <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor  tempor incididunt</p>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="btn-wrapper ">
+                        <a href="#" class="boxed-btn btn-rounded gd-bg-1"><i class="flaticon-apple-1"></i> App Store</a>
+                        <a href="#" class="boxed-btn btn-rounded gd-bg-2"><i class="flaticon-android-logo"></i> Play Store</a>
+                        <a href="#" class="boxed-btn btn-rounded gd-bg-3"><i class="flaticon-windows"></i> Windows</a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="img-with-video">
+                        <div class="img-wrap">
+                            <img src="assets/img/video-image.jpg" alt="">
+                            <div class="hover">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="right-content-area ">
+                        <span class="subtitle">Abhishek Mahankal</span>
+                        <h3 class="title" style="font-size: 35px;">Anyone can trade with TRADR</h3>
+                        <p style="font-size: 20px;  font-weight: 500;">With over 8 years of experience with trading in the stock market, managing 3 brokerage firms and a complete passion and goal to motivate millions, Abhishek Mahankal is the man behind TRADR. 
+                            Featured in many national dailys' including Yahoo Finance, News Track, Daily Hunt and many more, he spread the word about teaching finance to youngster's and guide their way to stock market trading with a unique in-person one on one approach on the TRADR trading floor.
+                            
+                        </p>
+                        
+<!-- 
+                        <ul>
+                            
+                            <li class="two">
+                              Bullet Point
+                            </li>
+                            <li class="two">
+                                Bullet Point
+                              </li>
+                              <li class="two">
+                                Bullet Point
+                              </li>
+                              <li class="two">
+                                Bullet Point
+                              </li>
+                              <li class="two">
+                                Bullet Point
+                              </li>
+
+<br>
+
+                           
+                          </ul>
+                          <a href="#" class="boxed-btn btn-rounded gd-bg-2">Learn More.</a> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="padding-top:50px ;">
+               
+                <div class="col-lg-6">
+                    <div class="right-content-area ">
+                        <span class="subtitle"></span>
+                        <h3 class="title" style="font-size: 35px;">Boost your business one step</h3>
+                        <p style="font-size: 20px; font-weight: 500;"> TRADR - Let's Reach The Top Together, as the tagline suggests, along with the team of dedicated traders becomes a one-stop solution for all the stock market-related services which focuses on growing together as a whole.
+                            Be it TRADR PERSONAL MENTORSHIP or ACCOUNT MANAGEMENT or TRADR APP SUBSCRIPTION, the TRADR team has you covered in all aspect of training and daily trading in the stock market.
+                           
+                        </p>
+                        
+<!-- 
+                          <a href="#" class="boxed-btn btn-rounded gd-bg-2">Learn More.</a> -->
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="img-with-video">
+                        <div class="img-wrap">
+                            <img src="assets/img/video-image1.jpg" alt="">
+                            <div class="hover">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- video area end -->
+    <!-- how it works area start -->
+    <section class="how-it-work-area dark-bg">
+        <div class="shape-1"><img src="assets/img/shape/06.png" alt=""></div>
+        <div class="shape-2"><img src="assets/img/shape/07.png" alt=""></div>
+        <div class="shape-3"><img src="assets/img/shape/06.png" alt=""></div>
+        <div class="shape-4"><img src="assets/img/shape/07.png" alt=""></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="section-title white">
+                        <!-- section title -->
+                        <span class="subtitle">Services WE OFFER</span>
+                        <h3 class="title">Learn, Invest or Copy Our Trades<br>We got you covered</h3>
+                        <p>Take your trading to next level with us.</p>
+                    </div><!-- //. section title -->
+                </div>
+            </div>
+            <div class="row mobile">
+                <div class="col-lg-12" style="padding: 50px;">
+                    <div class="how-it-works-tab-content white">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="left-content-area">
+                                    <span class="subtitle">Stock Market Training</span>
+                                    <h3 class="title">TRADR PERSONAL MENTORSHIP PROGRAM<br>-We create traders from absolute scratch to a professional level.</h3>
+                                    <!-- <p>Innovative solutions with the best. Incididunt dolor sit amet,
+                                        consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                                        et dolor tempor incididunt ut labore et dolore </p>
+                                     -->
+                                        <ul>
+                            
+                                            <li class="two">
+                                            Live training on trading floor
+                                           
+                                            </li>
+                                            <li class="two">
+                                            Exclusive to 5-6 members only
+                                              </li>
+                                              <li class="two">
+                                             5 Backtested Strategies
+                                              </li>
+                                              <li class="two">
+                                              Private Discord community  
+                                              </li>
+                                              <li class="two">
+                                             WhatsApp Group for best trades setups
+                                              </li>
+                                              <li class="two">
+                                            Pay in esay EMIs
+                                              </li>
+                                              <li class="two">
+                                                Free <span style="color: #d4af37;">2</span> months TRADR Subscription
+                                                  </li>
+                                                  <li class="two">
+                                                    Free stay and food on TRADR
+                                                      </li>
+                                                      
+                                                       
+                
+        
+                
+                                           
+                                          </ul>
+                                          <ul>
+                                            <li  style="font-size: 21px; border: gold solid 2px;">
+                                                NOTE: Not any internet course, personal attention till all concepts are clear
+                                                  </li>
+                                          </ul>
+                                </div>
+                                <div class="btn-wrapper">
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-1"><i class="flaticon-apple-1"></i>
+                                        App
+                                        Store</a>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2"><i
+                                            class="flaticon-android-logo"></i> Play
+                                        Store</a>
+
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="right-content-area">
+                                    <div class="img-wrapper">
+                                        <img src="assets/img/how-it-works-image.png" alt="how it works image">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12" style="padding: 50px;">
+                    <div class="how-it-works-tab-content white">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="left-content-area">
+                                    <div class="img-wrapper">
+                                        <img src="assets/img/how-it-works-image.png" alt="how it works image">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="left-content-area">
+                                    <h4 class="title">TRADR AI - Account Management Service</h4>
+                                    <p>The world is moving towards AI & automation, so match pace with the world by joining TRADR AI </p>
+                                        <ul>
+                                        <li class="two">
+                                            Fully Automated Services
+                                        </li>
+                                        <li class="two">
+                                            
+                                        </li>
+                                        <li class="two">
+                                            100% Safe & Legal
+                                        </li>
+                                        <li class="two">
+                                            Advance Monitoring Dashboard
+                                        </li>
+                                        <li class="two">
+                                            Payout Authorization In Your Hand
+                                        </li>
+                                        <li class="two">
+                                            No Need To Login Or Look at screens all day
+                                        </li>
+                                        <br>
+                                    </ul>
+
+
+
+                                        <ul>
+                                            <li  style="font-size: 21px; border: gold solid 2px;">
+                                                NOTE: For Portfolios above INR 5 Lakhs
+                                                  </li>
+                                          </ul>
+                                </div>
+                                <div class="btn-wrapper">
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-1"><i class="flaticon-apple-1"></i>
+                                        App
+                                        Store</a>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2"><i
+                                            class="flaticon-android-logo"></i> Play
+                                        Store</a>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row   web">
+                <div class="col-lg-12" style="padding: 50px;">
+                    <div class="how-it-works-tab-content white">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="left-content-area">
+                                    <div class="img-wrapper">
+                                        <img src="assets/img/how-it-works-image.png" alt="how it works image">
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+                            <div class="col-lg-6">
+                                <div class="left-content-area">
+                                    <span class="subtitle" >Stock Market Training</span>
+                                    <h3 class="title" >TRADR PERSONAL MENTORSHIP PROGRAM -We create traders from absolute scratch to a professional level.</h3>
+                                   
+                                   
+                                    <!-- <p>Innovative solutions with the best. Incididunt dolor sit amet,
+                                        consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                                        et dolor tempor incididunt ut labore et dolore </p>
+                                     -->
+                                        <ul>
+                            
+                                            <li class="two">
+                                            Live training on trading floor
+                                           
+                                            </li>
+                                            <li class="two">
+                                            Exclusive to 5-6 members only
+                                              </li>
+                                              <li class="two">
+                                             5 Backtested Strategies
+                                              </li>
+                                              <li class="two">
+                                              Private Discord community  
+                                              </li>
+                                              <li class="two">
+                                             WhatsApp Group for best trades setups
+                                              </li>
+                                              <li class="two">
+                                            Pay in esay EMIs
+                                              </li>
+                                              <li class="two">
+                                                Free <span style="color: #d4af37;">2</span> months TRADR Subscription
+                                                  </li>
+                                                  <li class="two">
+                                                    Free stay and food on TRADR
+                                                      </li>
+                                                      
+                                                       
+                
+        
+                
+                                           
+                                          </ul>
+                                          <ul>
+                                            <li  style="font-size: 21px; border: gold solid 2px;">
+                                                NOTE: Not any internet course, personal attention till all concepts are clear
+                                                  </li>
+                                          </ul>
+                                </div>
+                                <div class="btn-wrapper">
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-1"><i class="flaticon-apple-1"></i>
+                                        App
+                                        Store</a>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2"><i
+                                            class="flaticon-android-logo"></i> Play
+                                        Store</a>
+
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12" style="padding: 50px;">
+                    <div class="how-it-works-tab-content white">
+                        <div class="row">
+                        
+                            <div class="col-lg-6">
+                                <div class="left-content-area">
+                                    <div class="img-wrapper">
+                                        <img src="assets/img/how-it-works-image.png" alt="how it works image">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="left-content-area">
+                                    <h4 class="title">TRADR AI - Account Management Service</h4>
+                                    <p>The world is moving towards AI & automation, so match pace with the world by joining TRADR AI </p>
+                                        <ul>
+                                        <li class="two">
+                                            Fully Automated Services
+                                        </li>
+                                        <li class="two">
+                                            
+                                        </li>
+                                        <li class="two">
+                                            100% Safe & Legal
+                                        </li>
+                                        <li class="two">
+                                            Advance Monitoring Dashboard
+                                        </li>
+                                        <li class="two">
+                                            Payout Authorization In Your Hand
+                                        </li>
+                                        <li class="two">
+                                            No Need To Login Or Look at screens all day
+                                        </li>
+                                        <br>
+                                    </ul>
+
+
+
+                                        <ul>
+                                            <li  style="font-size: 21px; border: gold solid 2px;">
+                                                NOTE: For Portfolios above INR 5 Lakhs
+                                                  </li>
+                                          </ul>
+                                </div>
+                                <div class="btn-wrapper">
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-1"><i class="flaticon-apple-1"></i>
+                                        App
+                                        Store</a>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2"><i
+                                            class="flaticon-android-logo"></i> Play
+                                        Store</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- how it works area end -->
+
+    <!-- why choose area start -->
+    <section class="why-choose-area dark-bg">
+        <div class="shape-1"><img src="assets/img/shape/05.png" alt=""></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="section-title white">
+                        <!-- section title -->
+                        <span class="subtitle">why choose TRADR</span>
+                        <h3 class="title extra">Simple & easy to use application to assist with your trading journey</h3>
+                        <!-- <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor tempor
+                            incididunt ut labore dolore magna.</p> -->
+                    </div><!-- //. section title -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-12">
+                    <div class="single-why-us-item white margin-top-60 fadeInUp wow" onmouseover="mouseOne()" >
+                        <!-- single why us item -->
+                        <div class="icon gdbg-1">
+                            <i class="flaticon-settings-1"></i>
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Organised Signals</h4>
+                            <p>Signal sent to the app with clear levels, direction and asset</p>
+                        </div>
+                    </div><!-- //. single why us item -->
+                    <div class="single-why-us-item white fadeInUp wow" onmouseover="mouseTwo()">
+                        <!-- single why us item -->
+                        <div class="icon gdbg-2">
+                            <i class="flaticon-checked"></i>
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Daily Track Record</h4>
+                            <p>Daily updates of the results in the history section</p>
+                        </div>
+                    </div><!-- //. single why us item -->
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div >
+                         <img id="demo" src="assets/img/mobile-img-2.png" alt="mobile image two">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="single-why-us-item white margin-top-60 fadeInUp wow"  onmouseover="mouseThree()" >
+                        <!-- single why us item -->
+                        <div class="icon gdbg-3">
+                            <i class="flaticon-chat-1"></i>
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Trade Guidelines</h4>
+                            <p>Proper guidelines mentioning risk management and how to trade</p>
+                        </div>
+                    </div><!-- //. single why us item -->
+                    <div class="single-why-us-item white fadeInUp wow"  onmouseover="mouseFour()">
+                        <!-- single why us item -->
+                        <div class="icon gdbg-4">
+                            <i class="flaticon-cloud"></i>
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Personal Support</h4>
+                            <p>A direct WhatsApp link to connect personally and clear doubts</p>
+                        </div>
+                    </div><!-- //. single why us item -->
+                </div>
+            </div>
+        </div>
+        <section class="counterup-area dark-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-8">
+                        <div class="single-counter-item white">
+                            <!-- single counter item -->
+                            <div class="icon">
+                                <i class="flaticon-rating"></i>
+                            </div>
+                            <div class="content">
+                                <span class="count-num">14,567</span>
+                                <h4 class="title">Positive Reviews</h4>
+                            </div>
+                        </div><!-- //. single counter item -->
+                    </div>
+                    <div class="col-lg-4 col-md-8">
+                        <div class="single-counter-item white">
+                            <!-- single counter item -->
+                            <div class="icon">
+                                <i class="flaticon-conversation-1"></i>
+                            </div>
+                            <div class="content">
+                                <span class="count-num">567</span>
+                                <h4 class="title">Good Comments</h4>
+                            </div>
+                        </div><!-- //. single counter item -->
+                    </div>
+                    <div class="col-lg-4 col-md-8">
+                        <div class="single-counter-item white">
+                            <!-- single counter item -->
+                            <div class="icon">
+                                <i class="flaticon-email"></i>
+                            </div>
+                            <div class="content">
+                                <span class="count-num">36,778</span>
+                                <h4 class="title">App Downloads</h4>
+                            </div>
+                        </div><!-- //. single counter item -->
+                    </div>
+                    
+
+                </div>
+            </div>
+        </section>
+    </section>
+    
+    <!-- why choose area end -->
+
+    <!-- counterup area start -->
+
+    <!-- counterup area end -->
+
+
+    <!-- screenshort area start -->
+    <section class="screenshort-area dark-bg">
+        <div class="shape-1"><img src="assets/img/shape/06.png" alt=""></div>
+        <div class="shape-2"><img src="assets/img/shape/07.png" alt=""></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="section-title white">
+                        <!-- section title -->
+                        <span class="subtitle">Screenshots</span>
+                        <h3 class="title extra">Happy Clients And Students</h3>
+                        <p>At TRADR we belive in authenticity and spreding happiness. Here are few moments  of we collecting blessings from our free trades, client management and educatinal support   </p>
+                    </div><!-- //. section title -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="screenshort-carousel">
+                        <!-- screenshort carousel -->
+                        <div class="single-screenshort-item">
+                            <!-- single screenshort item -->
+                            <img src="assets/img/screenshort/screen-1.jpg" alt="">
+                        </div><!-- //.single screenshort item -->
+                        <div class="single-screenshort-item">
+                            <!-- single screenshort item -->
+                            <img src="assets/img/screenshort/screen-2.jpg" alt="">
+                        </div><!-- //.single screenshort item -->
+                        <div class="single-screenshort-item">
+                            <!-- single screenshort item -->
+                            <img src="assets/img/screenshort/screen-3.jpg" alt="">
+                        </div><!-- //.single screenshort item -->
+                        <div class="single-screenshort-item">
+                            <!-- single screenshort item -->
+                            <img src="assets/img/screenshort/screen-4.jpg" alt="">
+                        </div><!-- //.single screenshort item -->
+                    </div><!-- //. screenshort carousel -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- screenshort area end -->
+
+
+
+    <!-- price plan area start -->
+    <section class="pricing-plan-area dark-bg " id="pricing">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="section-title white">
+                        <!-- section title -->
+                        <span class="subtitle">our articles</span>
+                        <h3 class="title extra">FEATURED ARTICLES</h3>
+                        <!-- <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor tempor
+                            incididunt ut labore dolore magna.</p> -->
+                    </div><!-- //. section title -->
+                </div>
+            </div>
+            <div class="row mobile">
+                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+
+                            <div class="col-md-4 " style="float:left">
+                                <div class="card mb-2 newcard">
+                                    <img class="card-img-top" src="assets/img/project-slider-imgs-1.jpg"
+                                        alt="Card image cap">
+                                        <div class="card-body price-header ">
+                                            <h4 class="card-title  name">TRADR Got Featured In <br>  ZEE 5</h4>
+                                            <p class="card-text"></p>
+                                            <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                        </div>
+                                </div>
+                            </div>
+
+
+
+
+                            <div class="col-md-4 " style="float:left">
+                                <div class="card mb-2 newcard">
+                                    <img class="card-img-top" src="assets/img/project-slider-imgs-2.jpg"
+                                        alt="Card image cap">
+                                        <div class="card-body price-header ">
+                                            <h4 class="card-title  name">TRADR Got Featured In  Yahoo Finance </h4>
+                                            <p class="card-text"></p>
+                                            <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 " style="float:left">
+                                <div class="card mb-2 newcard">
+                                    <img class="card-img-top" src="assets/img/project-slider-imgs-3.jpg"
+                                        alt="Card image cap">
+                                        <div class="card-body price-header ">
+                                            <h4 class="card-title  name">TRADR Got Featured In Daily Hunt</h4>
+                                            <p class="card-text"></p>
+                                            <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+
+                            <div class="col-md-4 " style="float:left">
+                                <div class="card mb-2 newcard">
+                                    <img class="card-img-top" src="assets/img/project-slider-imgs-4.jpg"
+                                        alt="Card image cap">
+                                        <div class="card-body price-header ">
+                                            <h4 class="card-title  name">TRADR Got Featured In New Track</h4>
+                                            <p class="card-text"></p>
+                                            <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                        </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 " style="float:left">
+                                <div class="card mb-2 newcard">
+                                    <img class="card-img-top" src="assets/img/project-slider-imgs-5.jpg"
+                                        alt="Card image cap">
+                                        <div class="card-body price-header ">
+                                            <h4 class="card-title  name">TRADR Got Featured In Magzter Magzine</h4>
+                                            <p class="card-text"></p>
+                                            <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                        </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 " style="float:left">
+                                <div class="card mb-2 newcard">
+
+                                    <img class="card-img-top" src="assets/img/project-slider-imgs-6.jpg"
+                                        alt="Card image cap">
+                                        <div class="card-body price-header ">
+                                            <h4 class="card-title  name">TRADR Got Featured In <br>Latest LY</h4>
+                                            <p class="card-text"></p>
+                                            <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                        </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+
+
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+
+
+
+            </div>
+            <div class="row web">
+                <div class="col-lg-12">
+                    <div class="screenshort-carousel">
+                        <!-- screenshort carousel -->
+                        <div class="col-md-4 " style="float:left">
+                            <div class="card mb-2 newcard">
+                                <img class="card-img-top" src="assets/img/project-slider-imgs-1.jpg"
+                                    alt="Card image cap">
+                                <div class="card-body price-header ">
+                                    <h4 class="card-title  name">TRADR Got Featured In  ZEE 5</h4>
+                                    <p class="card-text"></p>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="col-md-4 " style="float:left">
+                            <div class="card mb-2 newcard">
+                                <img class="card-img-top" src="assets/img/project-slider-imgs-2.jpg"
+                                    alt="Card image cap">
+                                <div class="card-body price-header ">
+                                    <h4 class="card-title  name">TRADR Got Featured In  Yahoo Finance </h4>
+                                    <p class="card-text"></p>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 " style="float:left">
+                            <div class="card mb-2 newcard">
+                                <img class="card-img-top" src="assets/img/project-slider-imgs-3.jpg"
+                                    alt="Card image cap">
+                                <div class="card-body price-header ">
+                                    <h4 class="card-title  name">TRADR Got Featured In Daily Hunt</h4>
+                                    <p class="card-text"></p>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 " style="float:left">
+                            <div class="card mb-2 newcard">
+                                <img class="card-img-top" src="assets/img/project-slider-imgs-4.jpg"
+                                    alt="Card image cap">
+                                <div class="card-body price-header ">
+                                    <h4 class="card-title  name">TRADR Got Featured In New Track</h4>
+                                    <p class="card-text"></p>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 " style="float:left">
+                            <div class="card mb-2 newcard">
+                                <img class="card-img-top" src="assets/img/project-slider-imgs-5.jpg"
+                                    alt="Card image cap">
+                                <div class="card-body price-header ">
+                                    <h4 class="card-title  name">TRADR Got Featured In Magzter Magzine</h4>
+                                    <p class="card-text"></p>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 " style="float:left">
+                            <div class="card mb-2 newcard">
+
+                                <img class="card-img-top" src="assets/img/project-slider-imgs-6.jpg"
+                                    alt="Card image cap">
+                                <div class="card-body price-header ">
+                                    <h4 class="card-title  name">TRADR Got Featured In <br>Latest LY</h4>
+                                    <p class="card-text"></p>
+                                    <a href="#" class="boxed-btn btn-rounded gd-bg-2">Read Article</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div><!-- //. screenshort carousel -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- price plan area end -->
+
+    <!-- team member area start -->
+    <section class="team-member-area dark-bg" id="team">
+        <div class="bg-shape-1">
+            <img src="assets/img/bg/team-shape-dark.png" alt="">
+        </div>
+        <div class="bg-shape-2">
+            <img src="assets/img/bg/contact-map-bg-dark.png" alt="">
+        </div>
+        <div class="bg-shape-3 fadeInLeft wow">
+            <img src="assets/img/bg/contact-mobile-bg.png" alt="">
+        </div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="section-title white">
+                        <!-- section title -->
+                        <span class="subtitle">Our Patners</span>
+                        <h3 class="title">Worked With Trusted Companies</h3>
+                        <!-- <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor tempor
+                            incididunt ut labore dolore magna.</p> -->
+                    </div><!-- //. section title -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="team-carousel">
+                        <!-- team carousel -->
+                        <div class="">
+                            <!-- single team member -->
+                            <div class="thumb">
+                                <img src="assets/img/team-member/01.jpg" alt="team member image">
+
+                            </div>
+
+                        </div><!-- //. single team member -->
+                        <div class="">
+                            <!-- single team member -->
+                            <div class="thumb">
+                                <img src="assets/img/team-member/02.png" alt="team member image">
+
+                            </div>
+
+                        </div><!-- //. single team member -->
+                        <div class="">
+                            <!-- single team member -->
+                            <div class="thumb">
+                                <img src="assets/img/team-member/03.png" alt="team member image">
+
+                            </div>
+
+                        </div><!-- //. single team member -->
+                        <div class="">
+                            <!-- single team member -->
+                            <div class="thumb">
+                                <img src="assets/img/team-member/04.png" alt="team member image">
+
+                            </div>
+
+                        </div><!-- //. single team member -->
+                        <div class="">
+                            <!-- single team member -->
+                            <div class="thumb">
+                                <img src="assets/img/team-member/05.png" alt="team member image">
+
+                            </div>
+
+                        </div><!-- //. single team member -->
+                        <div class="">
+                            <!-- single team member -->
+                            <div class="thumb">
+                                <img src="assets/img/team-member/06.png" alt="team member image">
+
+                            </div>
+
+                        </div><!-- //. single team member -->
+                        <div class="">
+                            <!-- single team member -->
+                            <div class="thumb">
+                                <img src="assets/img/team-member/07.png" alt="team member image">
+
+                            </div>
+
+                        </div><!-- //. single team member -->
+                        <div class="">
+                            <!-- single team member -->
+                            <div class="thumb">
+                                <img src="assets/img/team-member/08.png" alt="team member image">
+
+                            </div>
+
+                        </div><!-- //. single team member -->
+                        <div class="">
+                            <!-- single team member -->
+                            <div class="thumb">
+                                <img src="assets/img/team-member/09.png" alt="team member image">
+
+                            </div>
+
+                        </div><!-- //. single team member -->
+
+
+
+                    </div><!-- //. team carousel -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="download-area-wrapper white margin-top-120">
+                        <!-- download area wrapper -->
+                        <span class="subtitle">Download TRADR App</span>
+                        <h3 class="title">Available For All Device</h3>
+                        <!-- <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor tempor
+                            incididunt ut labore dolore magna.</p> -->
+                        <div class="btn-wrapper">
+                            <a href="#" class="boxed-btn btn-rounded gd-bg-1"><i class="flaticon-apple-1"></i> App
+                                Store</a>
+                            <a href="#" class="boxed-btn btn-rounded gd-bg-2"><i class="flaticon-android-logo"></i> Play
+                                Store</a>
+                            <!-- <a href="#" class="boxed-btn btn-rounded gd-bg-3"><i class="flaticon-windows"></i>
+                                Windows</a> -->
+                        </div>
+                    </div><!-- //. download area wrapper -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="download-area-wrapper white margin-top-120">
+                        <!-- download area wrapper -->
+                        <span class="subtitle">Get In Touch</span>
+                        <h3 class="title">Contact Us</h3>
+                        <p>Tradr associates are connective and friendly.Connect with our Tradr associates personally for more details and clarify all your doubts.</p>
+                        <div class="btn-wrapper">
+                            <span class="subtitle">Connect with Akash</span>
+                            <a href="#" class="boxed-btn btn-rounded gd-bg-1"><i class="flaticon-"></i> Mentorship </a>
+                            <span class="subtitle">Connect with Yash</span>
+                            <a href="#" class="boxed-btn btn-rounded gd-bg-2"><i class="flaticon-"></i>Subscription</a>
+                                <span class="subtitle">Connect with Sagar </span>
+                            <a href="#" class="boxed-btn btn-rounded gd-bg-3">Management
+                                </a>
+                        </div>
+                    </div><!-- //. download area wrapper -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- team member area end -->
+
+    <!-- footer area start -->
+    <footer class="footer-area">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-widget about_widget">
+                            <a href="index.html" class="footer-logo"><img src="assets/img/logo-white.png" alt=""></a>
+                            <!-- <p>Within coming figure sex things are. Pretended concluded did repulsive education
+                                smallness yet yet described. Had country man his pressed shewing. </p> -->
+                            <ul class="social-icon">
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-widget nav_menus_widget">
+                            <h4 class="widget-title">Useful Links</h4>
+                            <ul>
+                                <li><a href="index.html"><i class="fas fa-chevron-right"></i> Home</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> About Us</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> Service</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> Blog</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-widget nav_menus_widget">
+                            <h4 class="widget-title">Need Help?</h4>
+                            <ul>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> Faqs</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> Privacy</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> Policy</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> Support</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> Temrs</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-widget nav_menus_widget">
+                            <h4 class="widget-title">Download</h4>
+                            <ul>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> For IOS</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> For Android</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> For Mac</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> For Window</a></li>
+                                <li><a href="#"><i class="fas fa-chevron-right"></i> For Linax</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-area">
+            <!-- copyright area -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="copyright-inner">
+                            <!-- copyright inner wrapper -->
+                            <div class="left-content-area">
+                                <!-- left content area -->
+                                &copy; Copyrights 2019 Appside All rights reserved.
+                            </div><!-- //. left content aera -->
+                            <div class="right-content-area">
+                                <!-- right content area -->
+                                Designed by <strong>Love</strong>
+                            </div><!-- //. right content area -->
+                        </div><!-- //.copyright inner wrapper -->
+                    </div>
+                </div>
+            </div>
+        </div><!-- //. copyright area -->
+    </footer>
+    <!-- footer area end -->
+
+    <!-- preloader area start -->
+    <div class="preloader-wrapper" id="preloader">
+        <div class="preloader">
+            <div class="sk-circle">
+                <div class="sk-circle1 sk-child"></div>
+                <div class="sk-circle2 sk-child"></div>
+                <div class="sk-circle3 sk-child"></div>
+                <div class="sk-circle4 sk-child"></div>
+                <div class="sk-circle5 sk-child"></div>
+                <div class="sk-circle6 sk-child"></div>
+                <div class="sk-circle7 sk-child"></div>
+                <div class="sk-circle8 sk-child"></div>
+                <div class="sk-circle9 sk-child"></div>
+                <div class="sk-circle10 sk-child"></div>
+                <div class="sk-circle11 sk-child"></div>
+                <div class="sk-circle12 sk-child"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- preloader area end -->
+
+    <!-- back to top area start -->
+    <div class="back-to-top">
+        <i class="fas fa-angle-up"></i>
+    </div>
+    <!-- back to top area end -->
+
+    <!-- jquery -->
+    <script src="assets/js/jquery.js"></script>
+    <!-- popper -->
+    <script src="assets/js/popper.min.js"></script>
+    <!-- bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- owl carousel -->
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <!-- magnific popup -->
+    <script src="assets/js/jquery.magnific-popup.js"></script>
+    <!-- contact js-->
+    <script src="assets/js/contact.js"></script>
+    <!-- wow js-->
+    <script src="assets/js/wow.min.js"></script>
+    <!-- way points js-->
+    <script src="assets/js/waypoints.min.js"></script>
+    <!-- counterup js-->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!-- main -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>

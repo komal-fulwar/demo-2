@@ -932,7 +932,7 @@
 
 @media only screen and (max-width: 414px) {
     .header-area {
-        padding: 260px 0 155px 0;
+        padding: 150px 0 155px 0;
     }
     .header-area .header-inner .title {
         font-size: 38px;

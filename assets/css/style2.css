@@ -3303,29 +3303,6 @@ ul.progress-info { display: flex; justify-content: space-between; }
 @keyframes rotateacw { 0% { transform: rotate(0deg); }
   100% { transform: rotate(-360deg); } }
 
-.social li { text-align: center; display: inline-block; padding: 0 3px; }
-
-.social li:first-child { padding-left: 0; }
-
-.social li a { display: inline-flex; align-items: center; transition: all 0.3s; width: auto; }
-
-.social li a:hover { opacity: 1; transform: translateX(0); }
-
-.social li a:hover .social-icon { background: #23c99d; color: #fff; }
-
-.tc-light .social li a:hover .social-icon { background: #16a3fe; }
-
-.social li a:hover .social-icon + span { color: #fff; }
-
-.social-icon { width: 32px; height: 32px; line-height: 32px; border-radius: 50%; transition: 0.3s; color: #415076; background: #fff; }
-
-.tc-light .social-icon { color: #fff; background: rgba(255, 255, 255, 0.15); }
-
-.social-icon-transparent { background: transparent; }
-
-.tc-light .social-icon-transparent { background: transparent; }
-
-.social-icon + span { display: none; margin-left: 8px; font-weight: 600; text-transform: uppercase; font-size: 12px; color: #16a3fe; transition: all 0.3s; }
 
 .social-bar { display: flex; flex-wrap: wrap; }
 
@@ -6857,17 +6834,8 @@ ul.progress-info { display: flex; justify-content: space-between; }
 /** 05.04 Footer */
 .nk-footer-angled { margin-top: -450px; }
 
-.footer-links { margin: 0 -12px; }
 
-.footer-links > li { display: inline-block; padding: 0 12px; }
 
-.footer-links > li > a { font-size: 13px; color: #415076; }
-
-.footer-links > li > a:hover { color: #16a3fe; }
-
-.tc-light .footer-links > li > a { color: #8ca2e5 !important; }
-
-.tc-light .footer-links > li > a:hover { color: #16a3fe !important; }
 
 /** 06. Override */
 .mfp-bg, .mfp-wrap, .mfp-wrap[class*="bg-"], .mfp-bg[class*="bg-"] { position: fixed !important; z-index: 99999999 !important; top: 0 !important; }
